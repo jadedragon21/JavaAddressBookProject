@@ -1,2 +1,2 @@
 # JavaAddressBookProject
- Address Book with Pusheen
+ Address Book with Bobbin Threadbare
